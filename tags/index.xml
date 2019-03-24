@@ -10,5 +10,23 @@
 	<atom:link href="https://jasonwarford.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>one</title>
+      <link>https://jasonwarford.com/tags/one/</link>
+      <pubDate>Sun, 24 Mar 2019 00:41:52 -0400</pubDate>
+      
+      <guid>https://jasonwarford.com/tags/one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>two</title>
+      <link>https://jasonwarford.com/tags/two/</link>
+      <pubDate>Sun, 24 Mar 2019 00:41:52 -0400</pubDate>
+      
+      <guid>https://jasonwarford.com/tags/two/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

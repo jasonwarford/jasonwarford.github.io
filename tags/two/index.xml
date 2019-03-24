@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>two on jason warford</title>
+    <link>https://jasonwarford.com/tags/two/</link>
+    <description>Recent content in two on jason warford</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Mar 2019 00:41:52 -0400</lastBuildDate>
+    
+	<atom:link href="https://jasonwarford.com/tags/two/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In the beginning . . .</title>
+      <link>https://jasonwarford.com/posts/hello-world/</link>
+      <pubDate>Sun, 24 Mar 2019 00:41:52 -0400</pubDate>
+      
+      <guid>https://jasonwarford.com/posts/hello-world/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
