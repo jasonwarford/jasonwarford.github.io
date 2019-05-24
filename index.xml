@@ -2,120 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jason warford</title>
-    <link>https://jasonwarford.com/</link>
+    <link>https://example.org/</link>
     <description>Recent content on jason warford</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Mar 2019 00:41:52 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jasonwarford.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>In the beginning . . .</title>
-      <link>https://jasonwarford.com/hello-world/</link>
-      <pubDate>Sun, 24 Mar 2019 00:41:52 -0400</pubDate>
-      
-      <guid>https://jasonwarford.com/hello-world/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
-    </item>
     
     <item>
-      <title>Name of the work 1</title>
-      <link>https://jasonwarford.com/work1/</link>
-      <pubDate>Tue, 14 Feb 2017 18:25:22 +0530</pubDate>
+      <title>Hello World!</title>
+      <link>https://example.org/posts/hello-world/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jasonwarford.com/work1/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>This is a Standard Post</title>
-      <link>https://jasonwarford.com/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>https://jasonwarford.com/work2/</guid>
-      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Another Awesome Post</title>
-      <link>https://jasonwarford.com/work3/</link>
-      <pubDate>Fri, 05 May 2017 19:44:32 +0530</pubDate>
-      
-      <guid>https://jasonwarford.com/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>A post without an Image</title>
-      <link>https://jasonwarford.com/work4/</link>
-      <pubDate>Tue, 21 Nov 2017 19:50:47 +0530</pubDate>
-      
-      <guid>https://jasonwarford.com/work4/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>A Totally Response Theme</title>
-      <link>https://jasonwarford.com/work5/</link>
-      <pubDate>Mon, 25 Dec 2017 19:53:42 +0530</pubDate>
-      
-      <guid>https://jasonwarford.com/work5/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Post with a Gallery</title>
-      <link>https://jasonwarford.com/work7/</link>
-      <pubDate>Mon, 01 Jan 2018 19:57:40 +0530</pubDate>
-      
-      <guid>https://jasonwarford.com/work7/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>A Post with lot of comments</title>
-      <link>https://jasonwarford.com/work8/</link>
-      <pubDate>Wed, 14 Feb 2018 19:59:22 +0530</pubDate>
-      
-      <guid>https://jasonwarford.com/work8/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Blogging is Fun and Worthwhile</title>
-      <link>https://jasonwarford.com/work9/</link>
-      <pubDate>Sun, 06 May 2018 20:02:19 +0530</pubDate>
-      
-      <guid>https://jasonwarford.com/work9/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://jasonwarford.com/work10/</link>
-      <pubDate>Wed, 04 Jul 2018 20:22:08 +0530</pubDate>
-      
-      <guid>https://jasonwarford.com/work10/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://jasonwarford.com/work11/</link>
-      <pubDate>Sun, 30 Sep 2018 20:23:59 +0530</pubDate>
-      
-      <guid>https://jasonwarford.com/work11/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+      <guid>https://example.org/posts/hello-world/</guid>
+      <description>Obligatory introduction post.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://jasonwarford.com/about/</link>
+      <link>https://example.org/about/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
-      <guid>https://jasonwarford.com/about/</guid>
+      <guid>https://example.org/about/</guid>
       <description>An sincerity so extremity he additions. Her yet there truth merit. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
 Received overcame oh sensible so at an. Formed do change merely to county it. Am separate contempt domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too.</description>
     </item>

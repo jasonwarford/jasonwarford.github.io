@@ -3,126 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jasonwarford.com/hello-world/</loc>
-    <lastmod>2019-03-24T00:41:52-04:00</lastmod>
+    <loc>https://example.org/posts/hello-world/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jasonwarford.com/work1/</loc>
-    <lastmod>2017-02-14T18:25:22+05:30</lastmod>
+    <loc>https://example.org/categories/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jasonwarford.com/work2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <loc>https://example.org/contact/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jasonwarford.com/work3/</loc>
-    <lastmod>2017-05-05T19:44:32+05:30</lastmod>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jasonwarford.com/work4/</loc>
-    <lastmod>2017-11-21T19:50:47+05:30</lastmod>
+    <loc>https://example.org/tags/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jasonwarford.com/work5/</loc>
-    <lastmod>2017-12-25T19:53:42+05:30</lastmod>
+    <loc>https://example.org/tags/intro/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jasonwarford.com/work7/</loc>
-    <lastmod>2018-01-01T19:57:40+05:30</lastmod>
+    <loc>https://example.org/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jasonwarford.com/work8/</loc>
-    <lastmod>2018-02-14T19:59:22+05:30</lastmod>
+    <loc>https://example.org/categories/ramblings/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jasonwarford.com/work9/</loc>
-    <lastmod>2018-05-06T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/work10/</loc>
-    <lastmod>2018-07-04T20:22:08+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/work11/</loc>
-    <lastmod>2018-09-30T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/about/</loc>
+    <loc>https://example.org/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/posts/</loc>
-    <lastmod>2019-03-24T00:41:52-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/categories/code/</loc>
-    <lastmod>2019-03-24T00:41:52-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/categories/design/</loc>
-    <lastmod>2019-03-24T00:41:52-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/</loc>
-    <lastmod>2019-03-24T00:41:52-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/tags/one/</loc>
-    <lastmod>2019-03-24T00:41:52-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/categories/photography/</loc>
-    <lastmod>2017-12-25T19:53:42+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/categories/travel/</loc>
-    <lastmod>2017-05-05T19:44:32+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/tags/two/</loc>
-    <lastmod>2019-03-24T00:41:52-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
