@@ -6,7 +6,7 @@
     <description>Recent content in ramblings on jason warford</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jasonwarford.com/categories/ramblings/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Hello World!</title>
       <link>https://jasonwarford.com/hello-world/</link>
-      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jasonwarford.com/hello-world/</guid>
       <description>&lt;p&gt;Obligatory introduction post.&lt;/p&gt;</description>
