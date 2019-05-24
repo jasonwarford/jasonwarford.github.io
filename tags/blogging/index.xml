@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on jason warford</title>
-    <link>https://jasonwarford.com/posts/</link>
-    <description>Recent content in Posts on jason warford</description>
+    <title>blogging on jason warford</title>
+    <link>https://jasonwarford.com/tags/blogging/</link>
+    <description>Recent content in blogging on jason warford</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jasonwarford.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jasonwarford.com/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://jasonwarford.com/hugo-static-site-generator-github/</guid>
       <description>&lt;p&gt;Choosing a platform to begin the blogging journey was the first step that I had to undertake. As a developer I think sometimes I spend too much time doing research and trying to find the &amp;ldquo;perfect&amp;rdquo; option.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hello World!</title>
-      <link>https://jasonwarford.com/hello-world/</link>
-      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasonwarford.com/hello-world/</guid>
-      <description>&lt;p&gt;Obligatory introduction post.&lt;/p&gt;</description>
     </item>
     
   </channel>
