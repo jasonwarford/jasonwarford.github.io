@@ -1,6 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jasonwarford.com/blah-blah-blahbity-blah/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>https://jasonwarford.com/hugo-static-site-generator-github/</loc>
@@ -13,8 +18,33 @@
   </url>
   
   <url>
-    <loc>https://jasonwarford.com/tags/blogging/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+    <loc>https://jasonwarford.com/categories/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasonwarford.com/tags/intro/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasonwarford.com/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasonwarford.com/posts/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasonwarford.com/categories/ramblings/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasonwarford.com/tags/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,7 +53,7 @@
   </url>
   
   <url>
-    <loc>https://jasonwarford.com/categories/</loc>
+    <loc>https://jasonwarford.com/tags/blogging/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,38 +68,13 @@
   </url>
   
   <url>
-    <loc>https://jasonwarford.com/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/posts/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jasonwarford.com/tags/static-website-generator/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/tags/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jasonwarford.com/categories/tech/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/tags/intro/</loc>
-    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/categories/ramblings/</loc>
-    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
