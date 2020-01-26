@@ -6,10 +6,19 @@
     <description>Recent content in snippets on jason warford</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jasonwarford.com/categories/snippets/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Updating a Forked Repo with Git Rebase</title>
+      <link>https://jasonwarford.com/updating-a-forked-repo-with-git-rebase/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonwarford.com/updating-a-forked-repo-with-git-rebase/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GitHub Action: Build and Deploy .Net Core to Digital Ocean</title>
@@ -18,15 +27,6 @@
       
       <guid>https://jasonwarford.com/github-action-build-and-deploy-.net-core-to-digital-ocean/</guid>
       <description>&lt;p&gt;This is a Github action that will build, publish and deploy an Asp.Net Core web application to a Digitial Ocean droplet that is running Ubuntu.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Updating a Forked Repo with Git Rebase</title>
-      <link>https://jasonwarford.com/updating-a-forked-repo-with-git-rebase/</link>
-      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasonwarford.com/updating-a-forked-repo-with-git-rebase/</guid>
-      <description></description>
     </item>
     
   </channel>
