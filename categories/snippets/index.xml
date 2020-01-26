@@ -20,5 +20,14 @@
       <description>&lt;p&gt;This is a Github action that will build, publish and deploy an Asp.Net Core web application to a Digitial Ocean droplet that is running Ubuntu.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Updating a Forked Repo with Git Rebase</title>
+      <link>https://jasonwarford.com/updating-a-forked-repo-with-git-rebase/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonwarford.com/updating-a-forked-repo-with-git-rebase/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
