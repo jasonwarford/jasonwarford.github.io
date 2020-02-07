@@ -24,7 +24,7 @@
         "datePublished": "2020-01-24 00:00:00 \x2b0000 UTC",
         "dateModified" : "2020-01-24 00:00:00 \x2b0000 UTC",
         "url" : "https:\/\/jasonwarford.com\/github-action-build-and-deploy-.net-core-to-digital-ocean\/",
-        "wordCount" : "59",
+        "wordCount" : "63",
         "image" : "https://jasonwarford.com/%!s(\u003cnil\u003e)"",
         "keywords" : [ ""github action, .net core, hosting"","Blog" ]   
     }
@@ -45,10 +45,10 @@
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
-<link href="https://jasonwarford.com/css/style.css?v=1580061383" rel="stylesheet" id="theme-stylesheet" type='text/css' media='all'>
+<link href="https://jasonwarford.com/css/style.css?v=1581108306" rel="stylesheet" id="theme-stylesheet" type='text/css' media='all'>
 
-<link href="https://jasonwarford.com/css/custom.css?v=1580061383" rel="stylesheet" type='text/css' media='all'>
-<link href="https://jasonwarford.com/css/syntax.css?v=1580061383" rel="stylesheet" type='text/css' media='all'>
+<link href="https://jasonwarford.com/css/custom.css?v=1581108306" rel="stylesheet" type='text/css' media='all'>
+<link href="https://jasonwarford.com/css/syntax.css?v=1581108306" rel="stylesheet" type='text/css' media='all'>
 <link rel="shortcut icon" href="https://jasonwarford.com/img/favicon.ico" type="image/x-icon">
 <link rel="icon" href="https://jasonwarford.com/img/favicon.ico" type="image/x-icon">
 
@@ -240,34 +240,34 @@ if (!doNotTrack) {
 <li>SSH on the sever using an SSH key</li>
 <li>User with access to the target deployement directory</li>
 </ol>
-<div class="highlight"><pre class="chroma"><code class="language-yaml" data-lang="yaml">name<span class="p">:</span><span class="w"> </span>Build<span class="w"> </span>and<span class="w"> </span>Deploy<span class="w"> </span>ASP.NET<span class="w"> </span>Core<span class="w"> </span>to<span class="w"> </span>Digital<span class="w"> </span>Ocean<span class="w">
+<div class="highlight"><pre class="chroma"><code class="language-yaml" data-lang="yaml"><span class="k">name</span><span class="p">:</span><span class="w"> </span>Build<span class="w"> </span>and<span class="w"> </span>Deploy<span class="w"> </span>ASP.NET<span class="w"> </span>Core<span class="w"> </span>to<span class="w"> </span>Digital<span class="w"> </span>Ocean<span class="w">
 </span><span class="w">
-</span><span class="w"></span>on<span class="p">:</span><span class="w"> </span><span class="p">[</span>push<span class="p">]</span><span class="w">
+</span><span class="w"></span><span class="k">on</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>push<span class="p">]</span><span class="w">
 </span><span class="w">
-</span><span class="w"></span>jobs<span class="p">:</span><span class="w">
-</span><span class="w">  </span>build<span class="p">:</span><span class="w">
-</span><span class="w">    </span>runs-on<span class="p">:</span><span class="w"> </span>ubuntu-latest<span class="w">
-</span><span class="w">    </span>steps<span class="p">:</span><span class="w">
-</span><span class="w">    </span>-<span class="w"> </span>uses<span class="p">:</span><span class="w"> </span>actions/checkout@v1<span class="w">
-</span><span class="w">    </span>-<span class="w"> </span>name<span class="p">:</span><span class="w"> </span>Setup<span class="w"> </span>.NET<span class="w"> </span>Core<span class="w">
-</span><span class="w">      </span>uses<span class="p">:</span><span class="w"> </span>actions/setup-dotnet@v1<span class="w">
-</span><span class="w">      </span>with<span class="p">:</span><span class="w">
-</span><span class="w">        </span>dotnet-version<span class="p">:</span><span class="w"> </span><span class="s1">&#39;3.1.100&#39;</span><span class="w">
-</span><span class="w">    </span>-<span class="w"> </span>name<span class="p">:</span><span class="w"> </span>Build<span class="w"> </span>with<span class="w"> </span>dotnet<span class="w">
-</span><span class="w">      </span>run<span class="p">:</span><span class="w"> </span>dotnet<span class="w"> </span>build<span class="w"> </span>--configuration<span class="w"> </span>Release<span class="w">
-</span><span class="w">    </span>-<span class="w"> </span>name<span class="p">:</span><span class="w"> </span>dotnet<span class="w"> </span>publish<span class="w"> 
-</span><span class="w">      </span>run<span class="p">:</span><span class="w"> </span><span class="sd">|
-</span><span class="sd">       </span><span class="sd"> </span><span class="sd">dotnet publish --configuration Release -o outputDirectory</span><span class="w">
-</span><span class="w">    </span>-<span class="w"> </span>name<span class="p">:</span><span class="w"> </span>Push<span class="w"> </span>code<span class="w"> </span>to<span class="w"> </span>Digital<span class="w"> </span>Ocean<span class="w">
-</span><span class="w">      </span>uses<span class="p">:</span><span class="w"> </span>appleboy/scp-action@master<span class="w">
-</span><span class="w">      </span>env<span class="p">:</span><span class="w">
-</span><span class="w">        </span>HOST<span class="p">:</span><span class="w"> </span>${{<span class="w"> </span>secrets.REMOTE_HOST<span class="w"> </span>}}<span class="w">
-</span><span class="w">        </span>USERNAME<span class="p">:</span><span class="w"> </span>${{<span class="w"> </span>secrets.REMOTE_USER<span class="w"> </span>}}<span class="w">
-</span><span class="w">        </span>PORT<span class="p">:</span><span class="w"> </span>${{<span class="w"> </span>secrets.REMOTE_PORT<span class="w"> </span>}}<span class="w">
-</span><span class="w">        </span>KEY<span class="p">:</span><span class="w"> </span>${{<span class="w"> </span>secrets.SERVER_SSH_KEY<span class="w"> </span>}}<span class="w">
-</span><span class="w">      </span>with<span class="p">:</span><span class="w">
-</span><span class="w">        </span>source<span class="p">:</span><span class="w"> </span><span class="s2">&#34;outputDirectory&#34;</span><span class="w">
-</span><span class="w">        </span>target<span class="p">:</span><span class="w"> </span><span class="s2">&#34;/var/www&#34;</span><span class="w">
+</span><span class="w"></span><span class="k">jobs</span><span class="p">:</span><span class="w">
+</span><span class="w"></span><span class="w">  </span><span class="k">build</span><span class="p">:</span><span class="w">
+</span><span class="w"></span><span class="w">    </span><span class="k">runs-on</span><span class="p">:</span><span class="w"> </span>ubuntu-latest<span class="w">
+</span><span class="w">    </span><span class="k">steps</span><span class="p">:</span><span class="w">
+</span><span class="w"></span><span class="w">    </span>- <span class="k">uses</span><span class="p">:</span><span class="w"> </span>actions/checkout@v1<span class="w">
+</span><span class="w">    </span>- <span class="k">name</span><span class="p">:</span><span class="w"> </span>Setup<span class="w"> </span>.NET<span class="w"> </span>Core<span class="w">
+</span><span class="w">      </span><span class="k">uses</span><span class="p">:</span><span class="w"> </span>actions/setup-dotnet@v1<span class="w">
+</span><span class="w">      </span><span class="k">with</span><span class="p">:</span><span class="w">
+</span><span class="w"></span><span class="w">        </span><span class="k">dotnet-version</span><span class="p">:</span><span class="w"> </span><span class="s1">&#39;3.1.100&#39;</span><span class="w">
+</span><span class="w">    </span>- <span class="k">name</span><span class="p">:</span><span class="w"> </span>Build<span class="w"> </span>with<span class="w"> </span>dotnet<span class="w">
+</span><span class="w">      </span><span class="k">run</span><span class="p">:</span><span class="w"> </span>dotnet<span class="w"> </span>build<span class="w"> </span>--configuration<span class="w"> </span>Release<span class="w">
+</span><span class="w">    </span>- <span class="k">name</span><span class="p">:</span><span class="w"> </span>dotnet<span class="w"> </span>publish<span class="w"> 
+</span><span class="w">      </span><span class="k">run</span><span class="p">:</span><span class="w"> </span><span class="sd">|
+</span><span class="sd">       </span><span class="sd"> </span><span class="sd">dotnet publish --configuration Release -o outputDirectory</span><span class="w">
+</span><span class="w">    </span>- <span class="k">name</span><span class="p">:</span><span class="w"> </span>Push<span class="w"> </span>code<span class="w"> </span>to<span class="w"> </span>Digital<span class="w"> </span>Ocean<span class="w">
+</span><span class="w">      </span><span class="k">uses</span><span class="p">:</span><span class="w"> </span>appleboy/scp-action@master<span class="w">
+</span><span class="w">      </span><span class="k">env</span><span class="p">:</span><span class="w">
+</span><span class="w"></span><span class="w">        </span><span class="k">HOST</span><span class="p">:</span><span class="w"> </span>${{<span class="w"> </span>secrets.REMOTE_HOST<span class="w"> </span>}}<span class="w">
+</span><span class="w">        </span><span class="k">USERNAME</span><span class="p">:</span><span class="w"> </span>${{<span class="w"> </span>secrets.REMOTE_USER<span class="w"> </span>}}<span class="w">
+</span><span class="w">        </span><span class="k">PORT</span><span class="p">:</span><span class="w"> </span>${{<span class="w"> </span>secrets.REMOTE_PORT<span class="w"> </span>}}<span class="w">
+</span><span class="w">        </span><span class="k">KEY</span><span class="p">:</span><span class="w"> </span>${{<span class="w"> </span>secrets.SERVER_SSH_KEY<span class="w"> </span>}}<span class="w">
+</span><span class="w">      </span><span class="k">with</span><span class="p">:</span><span class="w">
+</span><span class="w"></span><span class="w">        </span><span class="k">source</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;outputDirectory&#34;</span><span class="w">
+</span><span class="w">        </span><span class="k">target</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;/var/www&#34;</span><span class="w">
 </span></code></pre></div>
             </article>
           </div>
@@ -468,7 +468,7 @@ title="github icon"></i>
   </div>
   <script src="https://jasonwarford.com/js/jquery.min.js"></script>
 <script src="https://jasonwarford.com/js/jquerymigrate.js"></script>
-<script src="https://jasonwarford.com/js/production.min.js?v=1580061383"></script>
+<script src="https://jasonwarford.com/js/production.min.js?v=1581108306"></script>
 
 
 </body>
