@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on jason warford</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://jasonwarford.com/categories/</link>
     <description>Recent content in Categories on jason warford</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jasonwarford.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>snippets</title>
-      <link>http://localhost:1313/categories/snippets/</link>
+      <link>https://jasonwarford.com/categories/snippets/</link>
       <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/snippets/</guid>
+      <guid>https://jasonwarford.com/categories/snippets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blogging</title>
-      <link>http://localhost:1313/categories/blogging/</link>
+      <link>https://jasonwarford.com/categories/blogging/</link>
       <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/blogging/</guid>
+      <guid>https://jasonwarford.com/categories/blogging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tech</title>
-      <link>http://localhost:1313/categories/tech/</link>
+      <link>https://jasonwarford.com/categories/tech/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/tech/</guid>
+      <guid>https://jasonwarford.com/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ramblings</title>
-      <link>http://localhost:1313/categories/ramblings/</link>
+      <link>https://jasonwarford.com/categories/ramblings/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/ramblings/</guid>
+      <guid>https://jasonwarford.com/categories/ramblings/</guid>
       <description></description>
     </item>
     

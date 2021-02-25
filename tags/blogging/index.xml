@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blogging on jason warford</title>
-    <link>http://localhost:1313/tags/blogging/</link>
+    <link>https://jasonwarford.com/tags/blogging/</link>
     <description>Recent content in blogging on jason warford</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jasonwarford.com/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Static Site Generator &#43; GitHub</title>
-      <link>http://localhost:1313/hugo-static-site-generator-github/</link>
+      <link>https://jasonwarford.com/hugo-static-site-generator-github/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/hugo-static-site-generator-github/</guid>
+      <guid>https://jasonwarford.com/hugo-static-site-generator-github/</guid>
       <description>&lt;p&gt;Choosing a platform to begin the blogging journey was the first step that I had to undertake. As a developer I think sometimes I spend too much time doing research and trying to find the &amp;ldquo;perfect&amp;rdquo; option.&lt;/p&gt;</description>
     </item>
     
