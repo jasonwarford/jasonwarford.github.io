@@ -2,75 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on jason warford</title>
-    <link>https://jasonwarford.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on jason warford</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://jasonwarford.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>git</title>
-      <link>https://jasonwarford.com/tags/git/</link>
-      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/git/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jasonwarford.com/tags/git/</guid>
+      <guid>http://localhost:1313/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github action, .net core, hosting</title>
-      <link>https://jasonwarford.com/tags/github-action-.net-core-hosting/</link>
+      <link>http://localhost:1313/tags/github-action-.net-core-hosting/</link>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jasonwarford.com/tags/github-action-.net-core-hosting/</guid>
+      <guid>http://localhost:1313/tags/github-action-.net-core-hosting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>focus</title>
-      <link>https://jasonwarford.com/tags/focus/</link>
+      <link>http://localhost:1313/tags/focus/</link>
       <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jasonwarford.com/tags/focus/</guid>
+      <guid>http://localhost:1313/tags/focus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blogging</title>
-      <link>https://jasonwarford.com/tags/blogging/</link>
+      <link>http://localhost:1313/tags/blogging/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jasonwarford.com/tags/blogging/</guid>
+      <guid>http://localhost:1313/tags/blogging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://jasonwarford.com/tags/hugo/</link>
+      <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jasonwarford.com/tags/hugo/</guid>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>static website generator</title>
-      <link>https://jasonwarford.com/tags/static-website-generator/</link>
+      <link>http://localhost:1313/tags/static-website-generator/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jasonwarford.com/tags/static-website-generator/</guid>
+      <guid>http://localhost:1313/tags/static-website-generator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>intro</title>
-      <link>https://jasonwarford.com/tags/intro/</link>
+      <link>http://localhost:1313/tags/intro/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jasonwarford.com/tags/intro/</guid>
+      <guid>http://localhost:1313/tags/intro/</guid>
       <description></description>
     </item>
     
