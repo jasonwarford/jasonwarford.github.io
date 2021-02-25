@@ -24,7 +24,7 @@
         "datePublished": "2021-02-24 00:00:00 \u002b0000 UTC",
         "dateModified" : "2021-02-24 00:00:00 \u002b0000 UTC",
         "url" : "http:\/\/localhost:1313\/renaming-asp.net-identity-tables\/",
-        "wordCount" : "106",
+        "wordCount" : "128",
         "image" : "http://localhost:1313/%!s(\u003cnil\u003e)"",
         "keywords" : [ ""asp.net, .net, identity, entity framework"","Blog" ]   
     }
@@ -45,10 +45,10 @@
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
-<link href="http://localhost:1313/css/style.css?v=1614212618" rel="stylesheet" id="theme-stylesheet" type='text/css' media='all'>
+<link href="http://localhost:1313/css/style.css?v=1614212952" rel="stylesheet" id="theme-stylesheet" type='text/css' media='all'>
 
-<link href="http://localhost:1313/css/custom.css?v=1614212618" rel="stylesheet" type='text/css' media='all'>
-<link href="http://localhost:1313/css/syntax.css?v=1614212618" rel="stylesheet" type='text/css' media='all'>
+<link href="http://localhost:1313/css/custom.css?v=1614212952" rel="stylesheet" type='text/css' media='all'>
+<link href="http://localhost:1313/css/syntax.css?v=1614212952" rel="stylesheet" type='text/css' media='all'>
 <link rel="shortcut icon" href="http://localhost:1313/img/favicon.ico" type="image/x-icon">
 <link rel="icon" href="http://localhost:1313/img/favicon.ico" type="image/x-icon">
 
@@ -236,24 +236,25 @@ if (!doNotTrack) {
             <article>
               <p>Those default table names just bug me. I&rsquo;m not sure why anyone would want to keep the default names. Luckily it&rsquo;s easy enough to rename them.</p>
 <p>This example is taken from a .Net 5 application, but it should be easy enough to adapt to other versions of .Net.</p>
-<pre><code class="language-c-sharp" data-lang="c-sharp"> protected override void OnModelCreating(ModelBuilder builder)
-{
-    base.OnModelCreating(builder);
+<p>In this particular case I&rsquo;m using PostgreSQL as the database, that&rsquo;s why I opted for the table names to be snake case.</p>
+<div class="highlight"><pre class="chroma"><code class="language-csharp" data-lang="csharp"> <span class="k">protected</span> <span class="k">override</span> <span class="k">void</span> <span class="n">OnModelCreating</span><span class="p">(</span><span class="n">ModelBuilder</span> <span class="n">builder</span><span class="p">)</span>
+<span class="p">{</span>
+    <span class="k">base</span><span class="p">.</span><span class="n">OnModelCreating</span><span class="p">(</span><span class="n">builder</span><span class="p">);</span>
             
-    // Customize the ASP.NET Identity model and override the defaults if needed.
-    // For example, you can rename the ASP.NET Identity table names and more.
-    // Add your customizations after calling base.OnModelCreating(builder);
-    //builder.Entity&lt;User&gt;().ToTable(&quot;Users&quot;); // Your custom IdentityUser class
-    
-    builder.Entity&lt;User&gt;().ToTable(&quot;users&quot;); // Your custom IdentityUser class
-    builder.Entity&lt;IdentityUserLogin&lt;string&gt;&gt;().ToTable(&quot;user_logins&quot;);
-    builder.Entity&lt;IdentityUserToken&lt;string&gt;&gt;().ToTable(&quot;user_tokens&quot;);
-    builder.Entity&lt;IdentityUserClaim&lt;string&gt;&gt;().ToTable(&quot;user_claims&quot;);
-    builder.Entity&lt;IdentityUserRole&lt;string&gt;&gt;().ToTable(&quot;user_roles&quot;);
-    builder.Entity&lt;IdentityRoleClaim&lt;string&gt;&gt;().ToTable(&quot;role_claims&quot;);
-    builder.Entity&lt;IdentityRole&gt;().ToTable(&quot;roles&quot;);
-}
-</code></pre>
+    <span class="c1">// Customize the ASP.NET Identity model and override the defaults if needed.
+</span><span class="c1"></span>    <span class="c1">// For example, you can rename the ASP.NET Identity table names and more.
+</span><span class="c1"></span>    <span class="c1">// Add your customizations after calling base.OnModelCreating(builder);
+</span><span class="c1"></span>    <span class="c1">//builder.Entity&lt;User&gt;().ToTable(&#34;Users&#34;); // Your custom IdentityUser class
+</span><span class="c1"></span>    
+    <span class="n">builder</span><span class="p">.</span><span class="n">Entity</span><span class="p">&lt;</span><span class="n">User</span><span class="p">&gt;().</span><span class="n">ToTable</span><span class="p">(</span><span class="s">&#34;users&#34;</span><span class="p">);</span> <span class="c1">// Your custom IdentityUser class
+</span><span class="c1"></span>    <span class="n">builder</span><span class="p">.</span><span class="n">Entity</span><span class="p">&lt;</span><span class="n">IdentityUserLogin</span><span class="p">&lt;</span><span class="kt">string</span><span class="p">&gt;&gt;().</span><span class="n">ToTable</span><span class="p">(</span><span class="s">&#34;user_logins&#34;</span><span class="p">);</span>
+    <span class="n">builder</span><span class="p">.</span><span class="n">Entity</span><span class="p">&lt;</span><span class="n">IdentityUserToken</span><span class="p">&lt;</span><span class="kt">string</span><span class="p">&gt;&gt;().</span><span class="n">ToTable</span><span class="p">(</span><span class="s">&#34;user_tokens&#34;</span><span class="p">);</span>
+    <span class="n">builder</span><span class="p">.</span><span class="n">Entity</span><span class="p">&lt;</span><span class="n">IdentityUserClaim</span><span class="p">&lt;</span><span class="kt">string</span><span class="p">&gt;&gt;().</span><span class="n">ToTable</span><span class="p">(</span><span class="s">&#34;user_claims&#34;</span><span class="p">);</span>
+    <span class="n">builder</span><span class="p">.</span><span class="n">Entity</span><span class="p">&lt;</span><span class="n">IdentityUserRole</span><span class="p">&lt;</span><span class="kt">string</span><span class="p">&gt;&gt;().</span><span class="n">ToTable</span><span class="p">(</span><span class="s">&#34;user_roles&#34;</span><span class="p">);</span>
+    <span class="n">builder</span><span class="p">.</span><span class="n">Entity</span><span class="p">&lt;</span><span class="n">IdentityRoleClaim</span><span class="p">&lt;</span><span class="kt">string</span><span class="p">&gt;&gt;().</span><span class="n">ToTable</span><span class="p">(</span><span class="s">&#34;role_claims&#34;</span><span class="p">);</span>
+    <span class="n">builder</span><span class="p">.</span><span class="n">Entity</span><span class="p">&lt;</span><span class="n">IdentityRole</span><span class="p">&gt;().</span><span class="n">ToTable</span><span class="p">(</span><span class="s">&#34;roles&#34;</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
             </article>
           </div>
           
@@ -453,7 +454,7 @@ title="github icon"></i>
   </div>
   <script src="http://localhost:1313/js/jquery.min.js"></script>
 <script src="http://localhost:1313/js/jquerymigrate.js"></script>
-<script src="http://localhost:1313/js/production.min.js?v=1614212618"></script>
+<script src="http://localhost:1313/js/production.min.js?v=1614212952"></script>
 
 
 </body>
