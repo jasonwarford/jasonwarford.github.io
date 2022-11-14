@@ -1,81 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on jason warford</title>
+    <title>Tags on Home</title>
     <link>https://jasonwarford.com/tags/</link>
-    <description>Recent content in Tags on jason warford</description>
+    <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jasonwarford.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Feb 2021 16:56:47 +0600</lastBuildDate><atom:link href="https://jasonwarford.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>asp.net, .net, identity, entity framework</title>
-      <link>https://jasonwarford.com/tags/asp.net-.net-identity-entity-framework/</link>
-      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <title>Diy</title>
+      <link>https://jasonwarford.com/tags/diy/</link>
+      <pubDate>Fri, 05 Feb 2021 16:56:47 +0600</pubDate>
       
-      <guid>https://jasonwarford.com/tags/asp.net-.net-identity-entity-framework/</guid>
+      <guid>https://jasonwarford.com/tags/diy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>git</title>
-      <link>https://jasonwarford.com/tags/git/</link>
-      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Toy</title>
+      <link>https://jasonwarford.com/tags/toy/</link>
+      <pubDate>Fri, 05 Feb 2021 16:56:47 +0600</pubDate>
       
-      <guid>https://jasonwarford.com/tags/git/</guid>
+      <guid>https://jasonwarford.com/tags/toy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>github action, .net core, hosting</title>
-      <link>https://jasonwarford.com/tags/github-action-.net-core-hosting/</link>
-      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Photography</title>
+      <link>https://jasonwarford.com/tags/photography/</link>
+      <pubDate>Thu, 04 Feb 2021 16:56:47 +0600</pubDate>
       
-      <guid>https://jasonwarford.com/tags/github-action-.net-core-hosting/</guid>
+      <guid>https://jasonwarford.com/tags/photography/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>focus</title>
-      <link>https://jasonwarford.com/tags/focus/</link>
-      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Alarm</title>
+      <link>https://jasonwarford.com/tags/alarm/</link>
+      <pubDate>Wed, 03 Feb 2021 16:56:47 +0600</pubDate>
       
-      <guid>https://jasonwarford.com/tags/focus/</guid>
+      <guid>https://jasonwarford.com/tags/alarm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>blogging</title>
-      <link>https://jasonwarford.com/tags/blogging/</link>
-      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      <title>Clock</title>
+      <link>https://jasonwarford.com/tags/clock/</link>
+      <pubDate>Wed, 03 Feb 2021 16:56:47 +0600</pubDate>
       
-      <guid>https://jasonwarford.com/tags/blogging/</guid>
+      <guid>https://jasonwarford.com/tags/clock/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>https://jasonwarford.com/tags/hugo/</link>
-      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      <title>Balloon</title>
+      <link>https://jasonwarford.com/tags/balloon/</link>
+      <pubDate>Tue, 02 Feb 2021 16:56:47 +0600</pubDate>
       
-      <guid>https://jasonwarford.com/tags/hugo/</guid>
+      <guid>https://jasonwarford.com/tags/balloon/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>static website generator</title>
-      <link>https://jasonwarford.com/tags/static-website-generator/</link>
-      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      <title>Gas</title>
+      <link>https://jasonwarford.com/tags/gas/</link>
+      <pubDate>Tue, 02 Feb 2021 16:56:47 +0600</pubDate>
       
-      <guid>https://jasonwarford.com/tags/static-website-generator/</guid>
+      <guid>https://jasonwarford.com/tags/gas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>intro</title>
-      <link>https://jasonwarford.com/tags/intro/</link>
-      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <title>Food</title>
+      <link>https://jasonwarford.com/tags/food/</link>
+      <pubDate>Mon, 25 Jan 2021 16:56:47 +0600</pubDate>
       
-      <guid>https://jasonwarford.com/tags/intro/</guid>
+      <guid>https://jasonwarford.com/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gold</title>
+      <link>https://jasonwarford.com/tags/gold/</link>
+      <pubDate>Mon, 25 Jan 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://jasonwarford.com/tags/gold/</guid>
       <description></description>
     </item>
     

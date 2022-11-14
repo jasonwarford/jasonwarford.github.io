@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on jason warford</title>
+    <title>Categories on Home</title>
     <link>https://jasonwarford.com/categories/</link>
-    <description>Recent content in Categories on jason warford</description>
+    <description>Recent content in Categories on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jasonwarford.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Feb 2021 16:56:47 +0600</lastBuildDate><atom:link href="https://jasonwarford.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>snippets</title>
-      <link>https://jasonwarford.com/categories/snippets/</link>
-      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <title>LifeStyle</title>
+      <link>https://jasonwarford.com/categories/lifestyle/</link>
+      <pubDate>Fri, 05 Feb 2021 16:56:47 +0600</pubDate>
       
-      <guid>https://jasonwarford.com/categories/snippets/</guid>
+      <guid>https://jasonwarford.com/categories/lifestyle/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>blogging</title>
-      <link>https://jasonwarford.com/categories/blogging/</link>
-      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Photography</title>
+      <link>https://jasonwarford.com/categories/photography/</link>
+      <pubDate>Thu, 04 Feb 2021 16:56:47 +0600</pubDate>
       
-      <guid>https://jasonwarford.com/categories/blogging/</guid>
+      <guid>https://jasonwarford.com/categories/photography/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tech</title>
-      <link>https://jasonwarford.com/categories/tech/</link>
-      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      <title>Accessories</title>
+      <link>https://jasonwarford.com/categories/accessories/</link>
+      <pubDate>Tue, 02 Feb 2021 16:56:47 +0600</pubDate>
       
-      <guid>https://jasonwarford.com/categories/tech/</guid>
+      <guid>https://jasonwarford.com/categories/accessories/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ramblings</title>
-      <link>https://jasonwarford.com/categories/ramblings/</link>
-      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <title>Food</title>
+      <link>https://jasonwarford.com/categories/food/</link>
+      <pubDate>Mon, 25 Jan 2021 16:56:47 +0600</pubDate>
       
-      <guid>https://jasonwarford.com/categories/ramblings/</guid>
+      <guid>https://jasonwarford.com/categories/food/</guid>
       <description></description>
     </item>
     

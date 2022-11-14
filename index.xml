@@ -1,74 +1,172 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jason warford</title>
+    <title>Home</title>
     <link>https://jasonwarford.com/</link>
-    <description>Recent content on jason warford</description>
+    <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jasonwarford.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Feb 2021 16:56:47 +0600</lastBuildDate><atom:link href="https://jasonwarford.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Renaming ASP.Net Identity Tables</title>
-      <link>https://jasonwarford.com/renaming-asp.net-identity-tables/</link>
-      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <title>How to make toys from old Change testing</title>
+      <link>https://jasonwarford.com/blog/post-8/</link>
+      <pubDate>Fri, 05 Feb 2021 16:56:47 +0600</pubDate>
       
-      <guid>https://jasonwarford.com/renaming-asp.net-identity-tables/</guid>
-      <description>&lt;p&gt;Those default table names just bug me. I&amp;rsquo;m not sure why anyone would want to keep the default names. Luckily it&amp;rsquo;s easy enough to rename them.&lt;/p&gt;</description>
+      <guid>https://jasonwarford.com/blog/post-8/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit.</description>
     </item>
     
     <item>
-      <title>Updating a Forked Repo with Git Rebase</title>
-      <link>https://jasonwarford.com/updating-a-forked-repo-with-git-rebase/</link>
-      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <title>What you need to know about Photography</title>
+      <link>https://jasonwarford.com/blog/post-7/</link>
+      <pubDate>Thu, 04 Feb 2021 16:56:47 +0600</pubDate>
       
-      <guid>https://jasonwarford.com/updating-a-forked-repo-with-git-rebase/</guid>
+      <guid>https://jasonwarford.com/blog/post-7/</guid>
+      <description>Photography is an invaluable medium that allows us to capture the incandescent beauty of the outside world, something many of us haven’t seen in&amp;hellip; well, a hot minute.</description>
+    </item>
+    
+    <item>
+      <title>Become a morning person with the help of this a alarm clock</title>
+      <link>https://jasonwarford.com/blog/post-6/</link>
+      <pubDate>Wed, 03 Feb 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://jasonwarford.com/blog/post-6/</guid>
+      <description>Almost every day for the past nine or so months has felt like March 13, and that can sometimes make it difficult to want to wake up for the day ahead of you.</description>
+    </item>
+    
+    <item>
+      <title>Why a balloon is a flexible bag that can be inflated with a gas</title>
+      <link>https://jasonwarford.com/blog/post-5/</link>
+      <pubDate>Tue, 02 Feb 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://jasonwarford.com/blog/post-5/</guid>
+      <description>A balloon is a flexible bag that can be inflated with a gas, such as helium, hydrogen, nitrous oxide, oxygen, and air.</description>
+    </item>
+    
+    <item>
+      <title>Jason</title>
+      <link>https://jasonwarford.com/author/jason/</link>
+      <pubDate>Tue, 26 Jan 2021 10:14:19 +0600</pubDate>
+      
+      <guid>https://jasonwarford.com/author/jason/</guid>
+      <description>Jason is a software developer with over 18 years of experience. He enjoys learning new things but .Net/C# is is jam.</description>
+    </item>
+    
+    <item>
+      <title>Banana is the best meal packages in the UK spark outrage online</title>
+      <link>https://jasonwarford.com/blog/post-4/</link>
+      <pubDate>Mon, 25 Jan 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://jasonwarford.com/blog/post-4/</guid>
+      <description>A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.</description>
+    </item>
+    
+    <item>
+      <title>DIY Paper Diamond Tutorial with HUNGRY HEART</title>
+      <link>https://jasonwarford.com/blog/post-3/</link>
+      <pubDate>Mon, 25 Jan 2021 11:35:57 +0600</pubDate>
+      
+      <guid>https://jasonwarford.com/blog/post-3/</guid>
+      <description>A paper diamond is such a pretty way to bring a flair of stylish luxury to your home.. Ut bibendum lacus vestibulum maximus suscipit.</description>
+    </item>
+    
+    <item>
+      <title>Become a morning person with the help of this a alarm clock</title>
+      <link>https://jasonwarford.com/blog/post-2/</link>
+      <pubDate>Mon, 25 Jan 2021 11:33:57 +0600</pubDate>
+      
+      <guid>https://jasonwarford.com/blog/post-2/</guid>
+      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
+    </item>
+    
+    <item>
+      <title>What you need to know about Photography</title>
+      <link>https://jasonwarford.com/blog/post-1/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://jasonwarford.com/blog/post-1/</guid>
+      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
+    </item>
+    
+    <item>
+      <title>Search Result</title>
+      <link>https://jasonwarford.com/search/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://jasonwarford.com/search/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>GitHub Action: Build and Deploy .Net Core to Digital Ocean</title>
-      <link>https://jasonwarford.com/github-action-build-and-deploy-.net-core-to-digital-ocean/</link>
-      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasonwarford.com/github-action-build-and-deploy-.net-core-to-digital-ocean/</guid>
-      <description>&lt;p&gt;This is a Github action that will build, publish and deploy an Asp.Net Core web application to a Digitial Ocean droplet that is running Ubuntu.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Reboot</title>
-      <link>https://jasonwarford.com/reboot/</link>
-      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasonwarford.com/reboot/</guid>
-      <description>&lt;p&gt;Well that didn&amp;rsquo;t take long. Two blog posts in March of 2019 and that was all she wrote. Let&amp;rsquo;s give this another go.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hugo Static Site Generator &#43; GitHub</title>
-      <link>https://jasonwarford.com/hugo-static-site-generator-github/</link>
-      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasonwarford.com/hugo-static-site-generator-github/</guid>
-      <description>&lt;p&gt;Choosing a platform to begin the blogging journey was the first step that I had to undertake. As a developer I think sometimes I spend too much time doing research and trying to find the &amp;ldquo;perfect&amp;rdquo; option.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hello World!</title>
-      <link>https://jasonwarford.com/hello-world/</link>
-      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasonwarford.com/hello-world/</guid>
-      <description>&lt;p&gt;Obligatory introduction post.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
+      <title>About</title>
       <link>https://jasonwarford.com/about/</link>
-      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jasonwarford.com/about/</guid>
-      <description>An sincerity so extremity he additions. Her yet there truth merit. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
-Received overcame oh sensible so at an. Formed do change merely to county it. Am separate contempt domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too.</description>
+      <description>A software developer with over 18 years experience working across a wide range of programming languages and technical stacks. Most recently I&amp;rsquo;ve left the 9 to 5 for the startup life.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jasonwarford.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonwarford.com/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elements</title>
+      <link>https://jasonwarford.com/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonwarford.com/elements/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules. For example: use # for heading 1 and use ###### for heading 6.</description>
+    </item>
+    
+    <item>
+      <title>Homepage Grid</title>
+      <link>https://jasonwarford.com/homepage/grid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonwarford.com/homepage/grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homepage List</title>
+      <link>https://jasonwarford.com/homepage/list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonwarford.com/homepage/list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No Search Found</title>
+      <link>https://jasonwarford.com/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonwarford.com/404/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://jasonwarford.com/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonwarford.com/privacy/</guid>
+      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis.</description>
+    </item>
+    
+    <item>
+      <title>Terms And Conditions</title>
+      <link>https://jasonwarford.com/terms-conditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonwarford.com/terms-conditions/</guid>
+      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis.</description>
     </item>
     
   </channel>

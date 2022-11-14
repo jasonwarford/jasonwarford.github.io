@@ -1,125 +1,107 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://jasonwarford.com/renaming-asp.net-identity-tables/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/updating-a-forked-repo-with-git-rebase/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/github-action-build-and-deploy-.net-core-to-digital-ocean/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/reboot/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/hugo-static-site-generator-github/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/hello-world/</loc>
-    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/tags/asp.net-.net-identity-entity-framework/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <loc>https://jasonwarford.com/blog/</loc>
+    <lastmod>2021-02-05T16:56:47+06:00</lastmod>
+  </url><url>
     <loc>https://jasonwarford.com/categories/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-05T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/tags/diy/</loc>
+    <lastmod>2021-02-05T16:56:47+06:00</lastmod>
+  </url><url>
     <loc>https://jasonwarford.com/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/posts/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/categories/snippets/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-05T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/blog/post-8/</loc>
+    <lastmod>2021-02-05T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/categories/lifestyle/</loc>
+    <lastmod>2021-02-05T16:56:47+06:00</lastmod>
+  </url><url>
     <loc>https://jasonwarford.com/tags/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/tags/git/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/tags/github-action-.net-core-hosting/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/categories/blogging/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/tags/focus/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/tags/blogging/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/contact/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/tags/hugo/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/tags/static-website-generator/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/categories/tech/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/tags/intro/</loc>
-    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasonwarford.com/categories/ramblings/</loc>
-    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-05T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/tags/toy/</loc>
+    <lastmod>2021-02-05T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/tags/photography/</loc>
+    <lastmod>2021-02-04T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/categories/photography/</loc>
+    <lastmod>2021-02-04T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/blog/post-7/</loc>
+    <lastmod>2021-02-04T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/tags/alarm/</loc>
+    <lastmod>2021-02-03T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/blog/post-6/</loc>
+    <lastmod>2021-02-03T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/tags/clock/</loc>
+    <lastmod>2021-02-03T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/categories/accessories/</loc>
+    <lastmod>2021-02-02T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/tags/balloon/</loc>
+    <lastmod>2021-02-02T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/tags/gas/</loc>
+    <lastmod>2021-02-02T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/blog/post-5/</loc>
+    <lastmod>2021-02-02T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/author/jason/</loc>
+    <lastmod>2021-01-26T10:14:19+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/author/</loc>
+    <lastmod>2021-01-26T10:13:00+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/blog/post-4/</loc>
+    <lastmod>2021-01-25T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/tags/food/</loc>
+    <lastmod>2021-01-25T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/categories/food/</loc>
+    <lastmod>2021-01-25T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/tags/gold/</loc>
+    <lastmod>2021-01-25T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/blog/post-3/</loc>
+    <lastmod>2021-01-25T11:35:57+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/blog/post-2/</loc>
+    <lastmod>2021-01-25T11:33:57+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/blog/post-1/</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/search/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url><url>
     <loc>https://jasonwarford.com/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url><url>
+    <loc>https://jasonwarford.com/contact/</loc>
+  </url><url>
+    <loc>https://jasonwarford.com/elements/</loc>
+  </url><url>
+    <loc>https://jasonwarford.com/homepage/grid/</loc>
+  </url><url>
+    <loc>https://jasonwarford.com/homepage/list/</loc>
+  </url><url>
+    <loc>https://jasonwarford.com/homepage/</loc>
+  </url><url>
+    <loc>https://jasonwarford.com/404/</loc>
+  </url><url>
+    <loc>https://jasonwarford.com/privacy/</loc>
+  </url><url>
+    <loc>https://jasonwarford.com/terms-conditions/</loc>
   </url>
-  
 </urlset>
